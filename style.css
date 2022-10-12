@@ -4,6 +4,7 @@ body {
 .container {
   width: 70vw;
   margin: 0 auto;
+  background-color: bisque;
 }
 .input {
   margin-bottom: 1rem;
